@@ -1,3 +1,3 @@
 # Calculadora_python
-Primeiro projeto usando python
-Esse projeto  não foi feito o tratamento de erros
+* Calculadora básica usando python
+*  Essa calculadora não foi feita com tratamento de erros
